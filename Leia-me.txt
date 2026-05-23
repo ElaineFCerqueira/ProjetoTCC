@@ -1,0 +1,12 @@
+1. Criar o projeto com Spring Initializr
+2. Importar no IntelliJ IDEA
+3. Configuração do MySQL
+4. Estrutura básica da API
+	controller
+	dto
+	exception (pedir ao gpt as excessões que  podem existir em um sistema)
+	model
+	repository
+	service
+5. Insomia
+
